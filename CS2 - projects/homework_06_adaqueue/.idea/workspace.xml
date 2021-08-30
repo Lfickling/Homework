@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5298d0c6-4edb-4eff-9406-9aa3043e5fe2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1e0NnTfX6G43NWSZAWfPnUOkDen" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../activity_14_car_wash" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AdaQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdaQueue" />
+      <module name="homework_06_adaqueue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdaQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5298d0c6-4edb-4eff-9406-9aa3043e5fe2" name="Default Changelist" comment="" />
+      <created>1593454716184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593454716184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="166" width="420" height="440" key="FileChooserDialogImpl" timestamp="1593456733414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="386" y="166" width="420" height="440" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593456733414" />
+    <state width="1152" height="193" key="GridCell.Tab.0.bottom" timestamp="1593456734558">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1152" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593456734558" />
+    <state width="1152" height="193" key="GridCell.Tab.0.center" timestamp="1593456734557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1152" height="193" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593456734557" />
+    <state width="1152" height="193" key="GridCell.Tab.0.left" timestamp="1593456734556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1152" height="193" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593456734556" />
+    <state width="1152" height="193" key="GridCell.Tab.0.right" timestamp="1593456734558">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1152" height="193" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593456734558" />
+  </component>
+</project>

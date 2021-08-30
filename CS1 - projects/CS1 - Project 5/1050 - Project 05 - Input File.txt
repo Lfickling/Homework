@@ -1,0 +1,27 @@
+Dr. Martinez
+Introduction to Thinking
+Sue Hello 89
+Sue Numbers 73
+Sue Arrays 85
+Sue Airplane 42
+Sue Strings 84
+Bob Hello 95
+Bob Numbers 96
+Bob Arrays 91
+Bob Airplane 101
+Bob Strings 90
+Maria Hello 89
+Maria Numbers 73
+Maria Arrays 85
+Maria Airplane 79
+Maria Strings 84
+Jose Hello 89
+Jose Numbers 73
+Jose Arrays 85
+Jose Airplane 79
+Jose Strings 84
+Frantz Hello 62
+Frantz Numbers 0
+Frantz Arrays 71
+Frantz Airplane 79
+Frantz Strings 82

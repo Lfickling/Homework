@@ -1,0 +1,7 @@
+qtr,area_title,own_title,total_qtrly_wages
+1,Alabama -- Statewide,Federal Government,120617581
+2,Alabama -- Statewide,Federal Government,132446432
+1,Alabama -- Statewide,State Government,917996977
+2,Alabama -- Statewide,State Government,947724305
+1,Alabama -- Statewide,Local Government,1418398982
+

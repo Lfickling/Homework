@@ -1,0 +1,38 @@
+Dr. Martinez taught by Introduction to Thinking
+Report created by Letitia Fickling
+ 
+Student: Sue
+Assignments:
+    Hello – 89%, Numbers – 73%, Arrays – 85%, Airplane – 42%, Strings – 84%
+ 
+Student: Bob
+Assignments:
+    Hello – 95%, Numbers – 96%, Arrays – 91%, Airplane – 101%, Strings – 90%
+ 
+Student: Maria
+Assignments:
+    Hello – 89%, Numbers – 73%, Arrays – 85%, Airplane – 79%, Strings – 84%
+ 
+Student: Jose
+Assignments:
+    Hello – 89%, Numbers – 73%, Arrays – 85%, Airplane – 79%, Strings – 84%
+ 
+Student: Frantz
+Assignments:
+    Hello – 62%, Numbers – 0%, Arrays – 71%, Airplane – 79%, Strings – 82%
+ 
+There were 1 grades of zero.
+ 
+Class average on each assignment:
+    Hello, 84.8% 
+    Numbers, 63.0% 
+    Arrays, 83.4% 
+    Airplane, 76.0% 
+    Strings, 84.8% 
+ 
+Student grades:
+    Sue, 74.6%, C
+    Bob, 94.6%, A
+    Maria, 82.0%, B
+    Jose, 82.0%, B
+    Frantz, 58.8%, F

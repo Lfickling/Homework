@@ -1,0 +1,60 @@
+U.S. History
+Who was the first president of the United States?
+4,2
+Jimmy Carter
+George Washington
+John Adams
+Woodrow Wilson
+Which is NOT a branch of government?
+4,3
+Judicial
+Executive
+Military
+Legislative
+The Supreme Court is part of which branch?
+3,1
+Judicial
+Executive
+Legislative
+Which document governs the United States?
+4,4
+Articles of Confederation
+Law of Independence
+Declaration of Independence
+Constitution
+Which European country was on the selling end of the Louisiana Purchase?
+4,1
+France
+Britain
+Spain
+Portugal
+Who did the U.S. fight in the War of 1812?
+4,2
+Mexico
+Britain
+France
+Spain
+Who wrote the Declaration of Independence?
+4,4
+Benjamin Franklin
+Al Gore
+Abraham Lincoln
+Thomas Jefferson
+What battle took place on the bloodiest day of the Civil War?
+4,4
+Battle of Gettysburg
+First Battle of Bull Run
+Second Battle of Bull Run
+Battle of Antietam
+Which president issued the Emancipation Proclamation?
+4,1
+Abraham Lincoln
+Franklin Pierce
+James Garfield
+Grover Cleveland
+Which treaty gave the U.S. control of California?
+4,1
+Treaty of Guadalupe Hidalgo
+Treaty of Paris
+Treaty of Greenville
+Treaty of Versailles

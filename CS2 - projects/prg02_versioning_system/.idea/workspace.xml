@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6129d4aa-f0a6-4c84-b62c-91b2af507f3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ePrLRlVrai94aTEfgYGG1dd9B4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.VersioningSystem">
+    <configuration name="VersioningSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VersioningSystem" />
+      <module name="prg02_versioning_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOfVersionedObjectsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prg02_versioning_system" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackOfVersionedObjectsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOfVersionedObjectsTest.simpleStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prg02_versioning_system" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackOfVersionedObjectsTest" />
+      <option name="METHOD_NAME" value="simpleStackTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VersioningSystem" />
+        <item itemvalue="JUnit.StackOfVersionedObjectsTest.simpleStackTest" />
+        <item itemvalue="JUnit.StackOfVersionedObjectsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6129d4aa-f0a6-4c84-b62c-91b2af507f3d" name="Default Changelist" comment="" />
+      <created>1594234012447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594234012447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="284" width="576" height="451" key="FileChooserDialogImpl" timestamp="1595280638673">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state x="620" y="284" width="576" height="451" key="FileChooserDialogImpl/0.0.1200.800/0.0.1920.1080@0.0.1920.1080" timestamp="1595280638673" />
+    <state x="465" y="210" width="362" height="344" key="FileChooserDialogImpl/0.0.1200.800@0.0.1200.800" timestamp="1594595043406" />
+    <state x="744" y="284" width="424" height="483" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594235273521" />
+    <state width="1152" height="240" key="GridCell.Tab.0.bottom" timestamp="1594595395681">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.0.bottom/0.0.1200.800@0.0.1200.800" timestamp="1594595395681" />
+    <state width="1152" height="240" key="GridCell.Tab.0.center" timestamp="1594595395674">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.0.center/0.0.1200.800@0.0.1200.800" timestamp="1594595395674" />
+    <state width="1152" height="240" key="GridCell.Tab.0.left" timestamp="1594595395668">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.0.left/0.0.1200.800@0.0.1200.800" timestamp="1594595395668" />
+    <state width="1152" height="240" key="GridCell.Tab.0.right" timestamp="1594595395677">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.0.right/0.0.1200.800@0.0.1200.800" timestamp="1594595395677" />
+    <state width="1152" height="240" key="GridCell.Tab.1.bottom" timestamp="1594595395693">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.1.bottom/0.0.1200.800@0.0.1200.800" timestamp="1594595395693" />
+    <state width="1152" height="240" key="GridCell.Tab.1.center" timestamp="1594595395688">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.1.center/0.0.1200.800@0.0.1200.800" timestamp="1594595395688" />
+    <state width="1152" height="240" key="GridCell.Tab.1.left" timestamp="1594595395684">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.1.left/0.0.1200.800@0.0.1200.800" timestamp="1594595395684" />
+    <state width="1152" height="240" key="GridCell.Tab.1.right" timestamp="1594595395691">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state width="1152" height="240" key="GridCell.Tab.1.right/0.0.1200.800@0.0.1200.800" timestamp="1594595395691" />
+    <state x="529" y="377" width="667" height="311" key="com.intellij.ide.util.TipDialog" timestamp="1594664453639">
+      <screen x="0" y="0" width="1200" height="800" />
+    </state>
+    <state x="529" y="377" width="667" height="311" key="com.intellij.ide.util.TipDialog/0.0.1200.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594664453639" />
+    <state x="640" y="443" width="636" height="180" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594234100984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="443" width="636" height="180" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1594234100984" />
+    <state x="289" y="148" width="1338" height="769" key="new project wizard" timestamp="1594235276435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="289" y="148" width="1338" height="769" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1594235276435" />
+  </component>
+</project>
